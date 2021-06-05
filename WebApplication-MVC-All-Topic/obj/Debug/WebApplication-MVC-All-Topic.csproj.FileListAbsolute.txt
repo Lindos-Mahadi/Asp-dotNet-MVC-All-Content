@@ -77,6 +77,8 @@ F:\WebApplication-MVC-All-Topic\WebApplication-MVC-All-Topic\bin\System.Web.WebP
 F:\WebApplication-MVC-All-Topic\WebApplication-MVC-All-Topic\bin\System.Web.WebPages.dll
 F:\WebApplication-MVC-All-Topic\WebApplication-MVC-All-Topic\bin\System.Web.WebPages.Razor.dll
 F:\WebApplication-MVC-All-Topic\WebApplication-MVC-All-Topic\bin\WebGrease.dll
+F:\WebApplication-MVC-All-Topic\WebApplication-MVC-All-Topic\bin\EntityFramework.xml
+F:\WebApplication-MVC-All-Topic\WebApplication-MVC-All-Topic\bin\EntityFramework.SqlServer.xml
 F:\WebApplication-MVC-All-Topic\WebApplication-MVC-All-Topic\bin\System.Web.Helpers.xml
 F:\WebApplication-MVC-All-Topic\WebApplication-MVC-All-Topic\bin\System.Web.Mvc.xml
 F:\WebApplication-MVC-All-Topic\WebApplication-MVC-All-Topic\bin\System.Web.Optimization.xml
@@ -86,8 +88,6 @@ F:\WebApplication-MVC-All-Topic\WebApplication-MVC-All-Topic\bin\System.Web.WebP
 F:\WebApplication-MVC-All-Topic\WebApplication-MVC-All-Topic\bin\System.Web.WebPages.Razor.xml
 F:\WebApplication-MVC-All-Topic\WebApplication-MVC-All-Topic\bin\Newtonsoft.Json.xml
 F:\WebApplication-MVC-All-Topic\WebApplication-MVC-All-Topic\bin\Antlr3.Runtime.pdb
-F:\WebApplication-MVC-All-Topic\WebApplication-MVC-All-Topic\bin\EntityFramework.xml
-F:\WebApplication-MVC-All-Topic\WebApplication-MVC-All-Topic\bin\EntityFramework.SqlServer.xml
 F:\WebApplication-MVC-All-Topic\WebApplication-MVC-All-Topic\bin\Microsoft.AspNet.Identity.Core.xml
 F:\WebApplication-MVC-All-Topic\WebApplication-MVC-All-Topic\bin\Microsoft.AspNet.Identity.Owin.xml
 F:\WebApplication-MVC-All-Topic\WebApplication-MVC-All-Topic\bin\Microsoft.AspNet.Identity.EntityFramework.xml
@@ -101,7 +101,6 @@ F:\WebApplication-MVC-All-Topic\WebApplication-MVC-All-Topic\bin\Microsoft.Owin.
 F:\WebApplication-MVC-All-Topic\WebApplication-MVC-All-Topic\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 F:\WebApplication-MVC-All-Topic\WebApplication-MVC-All-Topic\bin\Microsoft.Owin.Security.OAuth.xml
 F:\WebApplication-MVC-All-Topic\WebApplication-MVC-All-Topic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-F:\WebApplication-MVC-All-Topic\WebApplication-MVC-All-Topic\obj\Debug\WebApplication-MVC-All-Topic.csproj.AssemblyReference.cache
 F:\WebApplication-MVC-All-Topic\WebApplication-MVC-All-Topic\obj\Debug\WebApplication-MVC-All-Topic.csproj.CoreCompileInputs.cache
 F:\WebApplication-MVC-All-Topic\WebApplication-MVC-All-Topic\obj\Debug\WebApplication-MVC-All-Topic.csproj.CopyComplete
 F:\WebApplication-MVC-All-Topic\WebApplication-MVC-All-Topic\obj\Debug\WebApplication-MVC-All-Topic.dll

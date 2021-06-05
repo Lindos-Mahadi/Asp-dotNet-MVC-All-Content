@@ -29,5 +29,6 @@ namespace WebApplication_MVC_All_Topic.Models
         {
             return new ApplicationDbContext();
         }
+        public DbSet<Employee> Employees { get; set; }
     }
 }
